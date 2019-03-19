@@ -19,7 +19,6 @@ variable "default_tags" {
 
   default = {
     project   = "holycow"
-    Owner     = "fred.blaise@pmi.com"
     Protected = "false"
   }
 }

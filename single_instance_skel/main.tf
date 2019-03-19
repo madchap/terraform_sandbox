@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "${var.vpc_region}"
-  profile = "pmi-playground"
+  profile = "xxxx"
 }
 
 module "vpc" {
